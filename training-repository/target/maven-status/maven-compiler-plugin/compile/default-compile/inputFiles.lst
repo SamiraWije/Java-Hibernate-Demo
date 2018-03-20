@@ -1,0 +1,7 @@
+/home/aux-046/eclipse-workspace-new/training/training-repository/src/main/java/com/auxenta/training/repository/dao/CompanyDao.java
+/home/aux-046/eclipse-workspace-new/training/training-repository/src/main/java/com/auxenta/training/repository/domain/Company.java
+/home/aux-046/eclipse-workspace-new/training/training-repository/src/main/java/com/auxenta/training/repository/dao/EmployeeDao.java
+/home/aux-046/eclipse-workspace-new/training/training-repository/src/main/java/com/auxenta/training/repository/dao/impl/CompanyDaoImpl.java
+/home/aux-046/eclipse-workspace-new/training/training-repository/src/main/java/com/auxenta/training/repository/dao/impl/EmployeeDaoImpl.java
+/home/aux-046/eclipse-workspace-new/training/training-repository/src/main/java/com/auxenta/training/repository/domain/BaseDomain.java
+/home/aux-046/eclipse-workspace-new/training/training-repository/src/main/java/com/auxenta/training/repository/domain/Employee.java
