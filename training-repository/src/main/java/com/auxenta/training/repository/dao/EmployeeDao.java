@@ -12,6 +12,6 @@ public interface EmployeeDao {
 	public Employee getById(Integer id);
 	
 	//get all the employees information
-	public List<Employee> getAll();
+	public List<Employee> getAll();	
 
 }

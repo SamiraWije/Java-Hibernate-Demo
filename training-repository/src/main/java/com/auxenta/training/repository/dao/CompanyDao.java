@@ -11,6 +11,7 @@ public interface CompanyDao {
 
 	public Company getById(Integer id);
 
+	//Get Company details
 	public List<Company> getAll();
 
 
